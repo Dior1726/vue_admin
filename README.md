@@ -1,4 +1,6 @@
-# dashboard
+# Vue dashboard
+# Vue 2.x version and Tailwind css
+# User ApexCharts 
 
 ## Project setup
 ```
